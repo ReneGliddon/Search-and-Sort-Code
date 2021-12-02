@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621996840 source:c:\users\samsung\desktop\code\searchingandsort\arraylisttype.cpp
+
+1635527772 source:c:\users\samsung\desktop\code\searchingandsort\main.cpp
+	<iostream>
+	"arrayListType.h"
+	<vector>
+
+1635472739 c:\users\samsung\desktop\code\searchingandsort\arraylisttype.h
+	<iostream>
+	<cassert>
+
